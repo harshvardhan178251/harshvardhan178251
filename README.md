@@ -7,6 +7,8 @@
 [![Typing SVG](https://typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+remember;Full-stack+apps+end+to+end;322+DSA+problems+solved+in+Java;Turning+ideas+into+shipped+software)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-live-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshvardhan178251.github.io/dsa-interview-cracker/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reddy-harshvardhan-a02b92325/)
+[![Email](https://img.shields.io/badge/Email-reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddy.harshavardhan1010@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-harshvardhan178251-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshvardhan178251)
 
 </div>
@@ -120,6 +122,8 @@ I build software that solves real problems — from **AI agents that retain memo
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshvardhan178251.github.io/dsa-interview-cracker/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reddy-harshvardhan-a02b92325/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddy.harshavardhan1010@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshvardhan178251)
 [![DSA Cracker](https://img.shields.io/badge/DSA%20Cracker-2E7D32?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/harshvardhan178251/dsa-interview-cracker)
 
