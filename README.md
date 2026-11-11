@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Harshvardhan ðŸ‘‹
+# Hey, I'm Harshvardhan 👋
 
-### AI & Full-Stack Developer Â· DSA Interview Prep
+### AI & Full-Stack Developer · DSA Interview Prep
 
 [![Typing SVG](https://typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+remember;Full-stack+apps+end+to+end;322+DSA+problems+solved+in+Java;Turning+ideas+into+shipped+software)](https://git.io/typing-svg)
 
@@ -13,19 +13,19 @@
 
 ---
 
-## ðŸ§  About Me
+## 🧠 About Me
 
-I build software that solves real problems â€” from **AI agents that retain memory across incidents** to **browser-based DSA interview prep** used to crack SDE interviews.
+I build software that solves real problems — from **AI agents that retain memory across incidents** to **browser-based DSA interview prep** used to crack SDE interviews.
 
-- ðŸš€ Currently building **agentic AI systems** and **LLM tooling**
-- ðŸŒ± Deep-diving into **RAG, agent memory, and system design**
-- ðŸ† **322 DSA problems** solved across 24 topics in Java
-- ðŸ› ï¸ Comfortable across the stack: **Java Â· Python Â· JavaScript Â· C++**
-- ðŸ‘¯ Open to **SDE internships, new-grad roles, and open-source collaboration**
+- 🚀 Currently building **agentic AI systems** and **LLM tooling**
+- 🌱 Deep-diving into **RAG, agent memory, and system design**
+- 🏆 **322 DSA problems** solved across 24 topics in Java
+- 🛠️ Comfortable across the stack: **Java · Python · JavaScript · C++**
+- 👯 Open to **SDE internships, new-grad roles, and open-source collaboration**
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -62,30 +62,30 @@ I build software that solves real problems â€” from **AI agents that retain
 
 ---
 
-## ðŸ“Œ Featured Projects
+## 📌 Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| ðŸ”Ž [**DSA Interview Cracker**](https://github.com/harshvardhan178251/dsa-interview-cracker) | 322 Java DSA problems across 24 topics, each with a step-by-step dry run, complexity analysis and interview notes. Runs in the browser. Â· [Live â†—](https://harshvardhan178251.github.io/dsa-interview-cracker/) | Java Â· JavaScript |
-| ðŸ¤– [**Incident Response Agent**](https://github.com/harshvardhan178251/incident-response-agent) | AI agent that recalls past incidents, root causes and runbooks from long-term memory â€” then proves the memory changed its answer. Keyless LLM chain. | Python Â· FastAPI Â· React |
-| ðŸ’¼ [**TalentFlow Job Board**](https://github.com/harshvardhan178251/job-board) | Enterprise-grade MERN job board with decoupled architecture and GitHub Actions CI/CD. Â· [Live â†—](https://job-board-rogers6.vercel.app) | React Â· Node.js Â· MongoDB |
-| ðŸ¦ [**Banking System**](https://github.com/harshvardhan178251/banking-system) | Full-stack banking management system â€” accounts, deposits, withdrawals and balance tracking over a clean REST API. | Spring Boot Â· React Â· MySQL |
-| â˜¢ï¸ [**Nuclear PdM Dashboard**](https://github.com/harshvardhan178251/nuclear-dashboard) | Predictive maintenance dashboard using an LSTM model on the NASA turbofan dataset to forecast Remaining Useful Life. | Python Â· Plotly Dash Â· ML |
-| ðŸŒ³ [**AVL Tree Visualizer**](https://github.com/harshvardhan178251/avl-tree-visualizer) | Interactive self-balancing BST with rotations, live insert/delete/search and step-by-step animation. | JavaScript |
+| 🔎 [**DSA Interview Cracker**](https://github.com/harshvardhan178251/dsa-interview-cracker) | 322 Java DSA problems across 24 topics, each with a step-by-step dry run, complexity analysis and interview notes. Runs in the browser. · [Live ↗](https://harshvardhan178251.github.io/dsa-interview-cracker/) | Java · JavaScript |
+| 🤖 [**Incident Response Agent**](https://github.com/harshvardhan178251/incident-response-agent) | AI agent that recalls past incidents, root causes and runbooks from long-term memory — then proves the memory changed its answer. Keyless LLM chain. | Python · FastAPI · React |
+| 💼 [**TalentFlow Job Board**](https://github.com/harshvardhan178251/job-board) | Enterprise-grade MERN job board with decoupled architecture and GitHub Actions CI/CD. · [Live ↗](https://job-board-rogers6.vercel.app) | React · Node.js · MongoDB |
+| 🏦 [**Banking System**](https://github.com/harshvardhan178251/banking-system) | Full-stack banking management system — accounts, deposits, withdrawals and balance tracking over a clean REST API. | Spring Boot · React · MySQL |
+| ☢️ [**Nuclear PdM Dashboard**](https://github.com/harshvardhan178251/nuclear-dashboard) | Predictive maintenance dashboard using an LSTM model on the NASA turbofan dataset to forecast Remaining Useful Life. | Python · Plotly Dash · ML |
+| 🌳 [**AVL Tree Visualizer**](https://github.com/harshvardhan178251/avl-tree-visualizer) | Interactive self-balancing BST with rotations, live insert/delete/search and step-by-step animation. | JavaScript |
 
 <details>
-<summary><b>ðŸ”¬ Open source I'm following</b></summary>
+<summary><b>🔬 Open source I'm following</b></summary>
 <br>
 
-- [`hindsight`](https://github.com/harshvardhan178251/hindsight) â€” Agent memory that learns
-- [`rocketride-server`](https://github.com/harshvardhan178251/rocketride-server) â€” High-performance AI pipeline engine with a C++ core
-- [`hydradb`](https://github.com/harshvardhan178251/hydradb) â€” Fast graph database on object storage
+- [`hindsight`](https://github.com/harshvardhan178251/hindsight) — Agent memory that learns
+- [`rocketride-server`](https://github.com/harshvardhan178251/rocketride-server) — High-performance AI pipeline engine with a C++ core
+- [`hydradb`](https://github.com/harshvardhan178251/hydradb) — Fast graph database on object storage
 
 </details>
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -99,7 +99,7 @@ I build software that solves real problems â€” from **AI agents that retain
 
 ---
 
-## ðŸ† Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -109,13 +109,13 @@ I build software that solves real problems â€” from **AI agents that retain
 
 ---
 
-## ðŸ“ˆ Activity
+## 📈 Activity
 
 [![Harshvardhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshvardhan178251&bg_color=00000000&color=7C3AED&line=7C3AED&point=7C3AED&area=true&hide_border=true)](https://github.com/harshvardhan178251)
 
 ---
 
-## ðŸ“« Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -125,7 +125,7 @@ I build software that solves real problems â€” from **AI agents that retain
 
 <br>
 
-â­ï¸ *If you like what I build, consider starring my repositories â€” it really helps!*
+⭐️ *If you like what I build, consider starring my repositories — it really helps!*
 
 </div>
 
