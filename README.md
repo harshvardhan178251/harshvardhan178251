@@ -2,11 +2,9 @@
 
 # Hey, I'm Harshvardhan 👋
 
-### AI & Full-Stack Developer · DSA Interview Prep
+AI & Full-Stack Developer · Agents, RAG & the stack
 
-[![Typing SVG](https://typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+remember;Full-stack+apps+end+to+end;322+DSA+problems+solved+in+Java;Turning+ideas+into+shipped+software)](https://git.io/typing-svg)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-live-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshvardhan178251.github.io/dsa-interview-cracker/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshvardhan178251.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reddy-harshvardhan-a02b92325/)
 [![Email](https://img.shields.io/badge/Email-reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddy.harshavardhan1010@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-harshvardhan178251-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshvardhan178251)
@@ -70,7 +68,7 @@ I build software that solves real problems — from **AI agents that retain memo
 | :--- | :--- | :--- |
 | 🔎 [**DSA Interview Cracker**](https://github.com/harshvardhan178251/dsa-interview-cracker) | 322 Java DSA problems across 24 topics, each with a step-by-step dry run, complexity analysis and interview notes. Runs in the browser. · [Live ↗](https://harshvardhan178251.github.io/dsa-interview-cracker/) | Java · JavaScript |
 | 🤖 [**Incident Response Agent**](https://github.com/harshvardhan178251/incident-response-agent) | AI agent that recalls past incidents, root causes and runbooks from long-term memory — then proves the memory changed its answer. Keyless LLM chain. | Python · FastAPI · React |
-| 💼 [**TalentFlow Job Board**](https://github.com/harshvardhan178251/job-board) | Enterprise-grade MERN job board with decoupled architecture and GitHub Actions CI/CD. · [Live ↗](https://job-board-rogers6.vercel.app) | React · Node.js · MongoDB |
+| 💼 [**TalentFlow Job Board**](https://github.com/harshvardhan178251/job-board) | Enterprise-grade MERN job board with decoupled architecture and GitHub Actions CI/CD. | React · Node.js · MongoDB |
 | 🏦 [**Banking System**](https://github.com/harshvardhan178251/banking-system) | Full-stack banking management system — accounts, deposits, withdrawals and balance tracking over a clean REST API. | Spring Boot · React · MySQL |
 | ☢️ [**Nuclear PdM Dashboard**](https://github.com/harshvardhan178251/nuclear-dashboard) | Predictive maintenance dashboard using an LSTM model on the NASA turbofan dataset to forecast Remaining Useful Life. | Python · Plotly Dash · ML |
 | 🌳 [**AVL Tree Visualizer**](https://github.com/harshvardhan178251/avl-tree-visualizer) | Interactive self-balancing BST with rotations, live insert/delete/search and step-by-step animation. | JavaScript |
@@ -87,33 +85,19 @@ I build software that solves real problems — from **AI agents that retain memo
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshvardhan178251&show_icons=true&hide_border=true&radius=8&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED)](https://github.com/harshvardhan178251)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshvardhan178251&hide_border=true&radius=8&background=00000000&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan178251&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED)](https://github.com/harshvardhan178251?tab=stars)
+![Contribution activity over the last year](https://harshvardhan178251.github.io/assets/contributions.svg)
 
 </div>
 
----
+**Snapshot** — 13 public repos · 10 original · 12 licensed · 72 contributions · 15 active days · best day Nov 11 (15) · joined Oct 2024
 
-## 🏆 Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harshvardhan178251&no-frame=true&no-bg=true&row=2&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+> Stat cards are generated from real GitHub data and served from my portfolio — no third-party widgets that can 503.
 
 ---
-
-## 📈 Activity
-
-[![Harshvardhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshvardhan178251&bg_color=00000000&color=7C3AED&line=7C3AED&point=7C3AED&area=true&hide_border=true)](https://github.com/harshvardhan178251)
 
 ---
 
@@ -121,7 +105,7 @@ I build software that solves real problems — from **AI agents that retain memo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshvardhan178251.github.io/dsa-interview-cracker/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshvardhan178251.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reddy-harshvardhan-a02b92325/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddy.harshavardhan1010@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshvardhan178251)
