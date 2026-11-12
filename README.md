@@ -66,6 +66,7 @@ I build software that solves real problems — from **AI agents that retain memo
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| 🦙 [**Ollama RAG Assistant**](https://github.com/harshvardhan178251/ollama-rag-assistant) | Fully local, keyless RAG: ask your own documents questions with nomic-embed-text + Ollama + SQLite cosine similarity — grounded answers with source citations. 37 tests. | Python · Ollama · SQLite |
 | 🔎 [**DSA Interview Cracker**](https://github.com/harshvardhan178251/dsa-interview-cracker) | 322 Java DSA problems across 24 topics, each with a step-by-step dry run, complexity analysis and interview notes. Runs in the browser. · [Live ↗](https://harshvardhan178251.github.io/dsa-interview-cracker/) | Java · JavaScript |
 | 🤖 [**Incident Response Agent**](https://github.com/harshvardhan178251/incident-response-agent) | AI agent that recalls past incidents, root causes and runbooks from long-term memory — then proves the memory changed its answer. Keyless LLM chain. | Python · FastAPI · React |
 | 💼 [**TalentFlow Job Board**](https://github.com/harshvardhan178251/job-board) | Enterprise-grade MERN job board with decoupled architecture and GitHub Actions CI/CD. | React · Node.js · MongoDB |
@@ -93,11 +94,9 @@ I build software that solves real problems — from **AI agents that retain memo
 
 </div>
 
-**Snapshot** — 13 public repos · 10 original · 12 licensed · 72 contributions · 15 active days · best day Nov 11 (15) · joined Oct 2024
+**Snapshot** — 14 public repos · 11 original · 13 licensed · 79 contributions · 15 active days · best day Nov 11 (15) · joined Oct 2024
 
 > Stat cards are generated from real GitHub data and served from my portfolio — no third-party widgets that can 503.
-
----
 
 ---
 
